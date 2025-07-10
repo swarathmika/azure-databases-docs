@@ -28,7 +28,7 @@ This article highlights the latest updates and enhancements for Azure Database f
 ## Release: June 2025
 
 - Support for latest [minor versions](concepts-supported-versions.md) 17.5, 16.9, 15.13, 14.18 and 13.21. <sup>$</sup>
-- Latest Enhancements to the PostgreSQL VS Code Extension version [1.6.0](https://github.com/microsoft/vscode-pgsql/blob/main/CHANGELOG.md)
+- Latest Enhancements to the PostgreSQL VS Code Extension [version 1.6.0](https://github.com/microsoft/vscode-pgsql/blob/main/CHANGELOG.md)
 
 ## Release: May 2025
 
